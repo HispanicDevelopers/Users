@@ -1,0 +1,28 @@
+{
+  "1": {
+    "name": "zAguss\uD83E\uDD86",
+    "image": "https://zagus.me/favicon.png",
+    "website": "https://zagus.me",
+    "description": "un desarrollador fullstack",
+    "languages": ["JavaScript"]
+  }
+  
+
+  "languages": [
+    "Java",
+    "JavaScript",
+    "NodeJs",
+    "Python",
+    "NextJS",
+    "React",
+    "VueJS",
+    "jQuery",
+    "MySQL",
+    "MongoDB",
+    "Vercel",
+    "Linux",
+    "Ubuntu"
+    ]
+
+
+}
